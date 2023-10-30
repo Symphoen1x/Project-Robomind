@@ -1,0 +1,110 @@
+# This file was saved at Thu Oct 26 2023 23:14:14 GMT+0700 (Western Indonesia Time)
+# from file:///C:/Program%20Files/RoboMind/mapeditor/index.html
+
+extra:
+
+paint:
+(b,.,15,13)
+(w,.,18,13)
+(b,.,15,14)
+(w,.,17,14)
+(w,.,18,14)
+(b,.,15,15)
+(w,.,17,15)
+(b,.,15,16)
+(w,.,17,16)
+(w,.,18,16)
+(b,.,15,17)
+(w,.,18,17)
+(b,.,15,18)
+(w,.,17,18)
+(w,.,18,18)
+(b,.,15,19)
+(w,.,17,19)
+(b,.,15,20)
+(w,.,17,20)
+(b,.,19,21)
+(w,.,15,22)
+(w,.,16,22)
+(b,.,19,22)
+(w,.,15,23)
+(b,.,18,23)
+(b,.,19,23)
+(w,.,15,24)
+(b,.,18,24)
+(w,.,15,25)
+(b,.,18,25)
+(b,.,19,25)
+(b,.,20,25)
+(w,.,15,26)
+(b,.,19,26)
+(w,.,15,27)
+(b,.,18,27)
+(b,.,19,27)
+(w,.,15,28)
+(w,.,16,28)
+(b,.,18,28)
+(b,.,19,28)
+(b,.,16,29)
+(w,.,18,29)
+(w,.,19,29)
+(b,.,15,30)
+(b,.,16,30)
+(w,.,19,30)
+(b,.,15,31)
+(w,.,18,31)
+(w,.,19,31)
+(b,.,15,32)
+(w,.,18,32)
+(w,.,19,32)
+(w,.,9,33)
+(b,.,15,33)
+(b,.,16,33)
+(b,.,17,33)
+(w,.,18,33)
+(w,.,19,33)
+(b,.,15,34)
+(w,.,19,34)
+(w,.,16,35)
+(w,.,17,35)
+(w,.,18,35)
+(w,.,19,35)
+
+map:
+        P
+       PPP
+      P   P
+     PP   PP
+      P   P
+       P P
+AAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+A      A      A****  APPPPPPP       PPPPPPA
+A*AAAA AA AAAAA****  APRRRRRP AAAAA PRRRRPA
+A    A  * A*  A****A APRRRRRP A*    PRRRRPA
+A AA AAAA A A A****A APRRRRRP A AAA PRRRRPA
+A AA    A   A A****A APRRRRRP A A*  PRRRRPA
+A    AA AAAAA Q****Q APPPPPPP A A A PRRRRPA
+A AA AA       Q AA Q*A       *      PPPPPPA
+A AA     AAA  Q A  Q A A A A PPPPPP*      A
+A    AA  AAA  A A AA A A A*  PRRRRP AAAA  A
+AAA  AA  AAA  A A  A A A AAA PRRRRP A*    A
+A             A AA A A A*    PRRRRP A AAA A
+A A A A  AAA  A A  A A AAAAA PRRRRP A A*  A
+A   A A  AAA  A A AA  *      PRRRRP A A A A
+A A A A  AAA  A    AAAAAAAAAAPPPPPP       A
+A   A A       AA    A      AAAAAAAAAAAAAA A
+A AAAAAAAAAAAAA   A AOOOOO              * A
+A ************A AA  AO     PPAAAAAAAAAAAAAA
+A AAAAA AAAAA*A AA AAO OOO PPAAAA         A
+A AAAAA AAAAA*A AA  AO   O PP      PPPP O A
+A            *A AAA AOOOOO PP PPP  PPPP O A
+A*AAAAA AAAAA*A AA  A      PP   P       O A
+A*AAAAA AAAAA*A    AA PPPPPPPPPPP OOOOOOO A
+A*           *AA    A             O       A
+A*AAAAA AAAAA*A  AA A PPPAAAA AAAAAAAAAAAAA
+A*AAAAA AAAAA*A AA  A PPPA     A          A
+A*           *A AA AA PPPA AAAAA AAAA AAA A
+A*AAAAA AAAAA*A AA  A PPPA       A  A A A A
+A*AAAAA AAAAA*A  AA A PPPAAAAAAA AA A A A A
+A*             *    A               A A   A
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@AAAAA
